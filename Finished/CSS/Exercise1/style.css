@@ -1,0 +1,34 @@
+
+body{
+	background-image:beige;
+	background-size: cover;	
+	font-weight: bold;
+	text-transform: capitalize;
+}
+h2 {
+	color: #030207;
+	cursor: pointer;
+	font-family: 'Mynerve', cursive;
+}
+p{
+	line-height: 20px;
+	font-style: italic,bold;
+	font-size: 80%;
+	font-family: 'Mynerve', cursive;
+	color:#2b1d56;
+	text-align: justify;
+}
+li{
+	list-style: None;
+	display: inline-block;
+}
+img{
+	float: left;
+	width: 80px;
+	height: 60px;
+}
+
+/* footer{
+	clear: both;
+	text-align: center;
+} */
